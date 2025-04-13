@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Jacob-05/Labo-3#readme",
   "keywords": [],
   "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
     "webpack": "^5.99.5",
     "webpack-cli": "^6.0.1"
   }
